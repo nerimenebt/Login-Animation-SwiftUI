@@ -11,4 +11,6 @@ I hope you'll learn something new and use these animation and concept to achieve
 
 #### Login Animation
 
+![LoginLoader](https://github.com/nerimenebt/Login-Animation-SwiftUI/blob/main/LoginAnimation.gif)
+
 Liked the project? Just give it a star ⭐️ and spread the word!
