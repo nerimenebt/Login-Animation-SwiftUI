@@ -1,2 +1,14 @@
-# Login-Animation-SwiftUI
-This repository containing a Login animation with Animated components created in SwiftUI that you can use in your own projects.
+# Login-SwiftUI-Animation
+Animation created with SwiftUI.
+
+![platform](https://img.shields.io/badge/platform-iOS-orange)
+
+
+Hello there, I'm Neri and in this repository, I'll be posting the code for the Login animation that you see on my Instagram 
+    [**@neri_iosdev**](https://www.instagram.com/neri_iosdev/).
+    
+I hope you'll learn something new and use these animation and concept to achieve great effects for your apps.
+
+#### Login Animation
+
+Liked the project? Just give it a star ⭐️ and spread the word!
